@@ -1,0 +1,6 @@
+tiktoken
+OpenAI
+langchain
+constants
+chromadb
+bs4
